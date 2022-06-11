@@ -1,4 +1,4 @@
-# Markdown Cheatsheet {#top}
+# Markdown Cheatsheet
 
 - [Paragraph](#Paragraph)
 - [Italic](#Italic)
@@ -18,7 +18,7 @@
 
 ---
 
-## Paragraph {#para}
+## Paragraph
 
 ```
 Hey this is my Paragraph
@@ -30,7 +30,7 @@ this is my <br> new line
 
 ---
 
-## Italic {#it}
+## Italic
 
 ```
 I am very *cool* developer and passionate about _technology_.
@@ -40,7 +40,7 @@ I am very _cool_ developer and passionate about _technology_.
 
 ---
 
-## Bold {#bo}
+## Bold
 
 ```
 I am trying to become a **great developer** and great __problem solver__.
@@ -50,7 +50,7 @@ I am trying to become a **great developer** and great **problem solver**.
 
 ---
 
-## Strike Through {#st}
+## Strike Through
 
 ```
 ~~I can't do~~ I can do anything
@@ -60,7 +60,7 @@ I am trying to become a **great developer** and great **problem solver**.
 
 ---
 
-# Headings {#head}
+# Headings
 
 ```
 
@@ -107,7 +107,7 @@ Heading2
 
 ---
 
-## Heading ID's {#hi}
+## Heading ID's
 
 ```
 set the id to heading
@@ -123,7 +123,7 @@ set the id to heading
 
 ---
 
-## Links {#link}
+## Links
 
 ```
 <htttp://wesbos.com>
@@ -157,7 +157,7 @@ This is my same [Github][git] id
 
 ---
 
-## Image {#img}
+## Image
 
 ```
 
@@ -238,7 +238,7 @@ This is my same [Github][git] id
 
 ---
 
-## Lists {#li}
+## Lists
 
 ##### Unordered List
 
@@ -338,7 +338,7 @@ _using (\+)_
 
 ---
 
-## Line Break {#line-br}
+## Line Break
 
 ```
 Mahesh is cool <br>
@@ -350,7 +350,7 @@ He really love Programming
 
 ---
 
-## Horizontal Rules {#hr}
+## Horizontal Rules
 
 ```
 This is HR. After line must add one line space.
@@ -362,7 +362,7 @@ This is HR. After line must add one line space.
 
 ---
 
-## Block Quotes {#bq}
+## Block Quotes
 
 ```
 > Crazy dreams takes crazy effort.
@@ -380,7 +380,7 @@ This is HR. After line must add one line space.
 
 ---
 
-## Code {#code}
+## Code
 
 Here is my code :
 
@@ -479,7 +479,7 @@ var x = 100;
 
 ---
 
-## Tables {#tab}
+## Tables
 
 ```
 text alignment
@@ -551,7 +551,7 @@ right  |-----:|
 
 ---
 
-## Check box {#check}
+## Check box
 
 ```
 * [X] Javascript
