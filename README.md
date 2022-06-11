@@ -1,20 +1,20 @@
-# Markdown Cheatsheet
+# Markdown-Cheatsheet
 
 - [Paragraph](#Paragraph)
 - [Italic](#Italic)
 - [Bold](#Bold)
-- [Strike through](#st)
-- [Headings](#head)
-- [Heading ID's](#hi)
-- [Links](#link)
-- [Image](#img)
-- [List](#li)
-- [Line Break](#line-br)
-- [Horizontal Rule](#hr)
-- [Block Quotes](#bq)
-- [Code](#code)
-- [Tables](#tab)
-- [Check Box](#check)
+- [Strike-through](#Strike-through)
+- [Headings](#Headings)
+- [Heading-ID](#Heading-ID)
+- [Links](#Links)
+- [Image](#Image)
+- [List](#List)
+- [Line-Break](#Line-Break)
+- [Horizontal-Rule](#Horizontal-Rule)
+- [Block-Quotes](#Block-Quotes)
+- [Code](#Code)
+- [Tables](#Tables)
+- [Check-Box](#Check-Box)
 
 ---
 
@@ -119,7 +119,7 @@ set the id to heading
  [Go to Paragraph](#para)
 ```
 
-[Go to Paragraph](#para)
+[Go to Paragraph](#Paragraph)
 
 ---
 
@@ -161,74 +161,72 @@ This is my same [Github][git] id
 
 ```
 
-##### 200 X 200
+##### Method 1
 
-![this is alt text](http://unsplash.it/200/200/ "this is an image title")
-
+![this is alt text](https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/2X/4/4936e0f28f79c8a2aa95582741091356d0ed61d8.jpeg "this is an image title")
 
 <br>
 
-##### 400 X 300
+##### Methode 2
 
 ![alt][image]
 
-[image]: http://unsplash.it/400/300/
+[image]: https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/2X/4/4936e0f28f79c8a2aa95582741091356d0ed61d8.jpeg
 
 <br>
 
 ##### Nested image
 
-[![](http://unsplash.it/200/100/)](http://unsplash.it/400/300/)
+[![](https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/2X/4/4936e0f28f79c8a2aa95582741091356d0ed61d8.jpeg)](http://unsplash.it/400/300/)
 
 <br>
 
 ##### Link on image
 
-[<img src="http://unsplash.it/100/100/" />](http://unsplash.com)
+[<img src="https://images.unsplash.com/photo-1589490047559-a1c13ec25b87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80" />](http://unsplash.com)
 
 <br>
 
 ##### HTML and CSS
 
-<img src="http://unsplash.it/500/500/" width="200" height="300">
+<img src="https://images.unsplash.com/photo-1589490047559-a1c13ec25b87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80" width="200" height="300" alt="unsplash image">
 
 <style>
     img{
         border:2px solid grey;
     }
 </style>
-
 ```
 
-##### 200 X 200
+##### Method 1
 
-![this is alt text](http://unsplash.it/200/200/ "this is an image title")
+![this is alt text](https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/2X/4/4936e0f28f79c8a2aa95582741091356d0ed61d8.jpeg "this is an image title")
 
 <br>
 
-##### 400 X 300
+##### Method 2
 
 ![alt][image]
 
-[image]: http://unsplash.it/400/300/
+[image]: https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/2X/4/4936e0f28f79c8a2aa95582741091356d0ed61d8.jpeg
 
 <br>
 
 ##### Nested image
 
-[![](http://unsplash.it/200/100/)](http://unsplash.it/400/300/)
+[![](https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/2X/4/4936e0f28f79c8a2aa95582741091356d0ed61d8.jpeg)](http://unsplash.it/400/300/)
 
 <br>
 
 ##### Link on image
 
-[<img src="http://unsplash.it/100/100/" />](http://unsplash.com)
+[<img src="https://images.unsplash.com/photo-1589490047559-a1c13ec25b87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80" />](http://unsplash.com)
 
 <br>
 
 ##### HTML and CSS
 
-<img src="http://unsplash.it/500/500/" width="200" height="300" alt="unsplash image">
+<img src="https://images.unsplash.com/photo-1589490047559-a1c13ec25b87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80" width="200" height="300" alt="unsplash image">
 
 <style>
     img{
@@ -323,7 +321,7 @@ _using (\+)_
      - nested inner
      - nested inner
      - nested image
-       ![](http://unsplash.it/200/300/)
+       ![](https://c4.wallpaperflare.com/wallpaper/819/300/939/train-valley-glenfinnan-viaduct-hd-wallpaper-preview.jpg)
 2. Outer2
 ```
 
@@ -333,7 +331,7 @@ _using (\+)_
      - nested inner
      - nested inner
      - nested image
-       ![](http://unsplash.it/200/300/)
+       ![](https://c4.wallpaperflare.com/wallpaper/819/300/939/train-valley-glenfinnan-viaduct-hd-wallpaper-preview.jpg)
 2. Outer2
 
 ---
@@ -591,6 +589,6 @@ right  |-----:|
   - [ ] Angular
   - [ ] Vue
 
-[Go to Top :point_up:](#top)
+[Go to Top :point_up:](#Markdown-Cheatsheet)
 
 Made with :heart: by [Mahesh](https://www.linkedin.com/in/mahesh-bauri/)
