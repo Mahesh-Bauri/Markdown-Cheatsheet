@@ -138,7 +138,7 @@ This is my same [Github][git] id
 
 [git]: http://github.com/mahesh-bauri
 [1]: http://github.com/mahesh-bauri
-[2]: http://linkedin.com/mahesh-bauri
+[2]: https://www.linkedin.com/in/mahesh-bauri/
 ```
 
 <htttp://wesbos.com>
@@ -593,4 +593,4 @@ right  |-----:|
 
 [Go to Top :point_up:](#top)
 
-Made with :heart: by [Mahesh](http://linkedin.com/mahesh-bauri)
+Made with :heart: by [Mahesh](https://www.linkedin.com/in/mahesh-bauri/)
