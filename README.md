@@ -1,8 +1,8 @@
 # Markdown Cheatsheet {#top}
 
-- [Paragraph](#para)
-- [Italic](#it)
-- [Bold](#bo)
+- [Paragraph](#Paragraph)
+- [Italic](#Italic)
+- [Bold](#Bold)
 - [Strike through](#st)
 - [Headings](#head)
 - [Heading ID's](#hi)
